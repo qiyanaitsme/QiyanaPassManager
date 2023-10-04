@@ -1,0 +1,23 @@
+/* dracula.qss */
+QWidget {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+QLabel {
+    color: #50fa7b;
+}
+
+QLineEdit {
+    background-color: #44475a;
+    color: #f8f8f2;
+}
+
+QPushButton {
+    background-color: #bd93f9;
+    color: #282a36;
+}
+
+QPushButton:hover {
+    background-color: #ff79c6;
+}
